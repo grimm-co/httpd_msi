@@ -1,7 +1,7 @@
 Apache HTTP Server v2.2 Windows Setup MSI File.
 ===============================================
 
-Winodws Setup MSIs for the latest releases of Apache v2.2 are not available online. To assist those who continue to use httpd 2.2 this project provides a prebuilt msi.
+Windows Setup MSIs for the latest releases of Apache v2.2 are not available online. To assist those who continue to use httpd 2.2 this project provides a prebuilt msi.
 
 The setup msi consists of:
 1. httpd v2.2.31 (http://httpd.apache.org/download.cgi)
